@@ -1,11 +1,3 @@
- _   _                 _ _ _         _ _ _ _ _ _
-| | | |               |_   _|      /  ___/  ___| 
-| |_| | _____      __   | | ___    \ `--.\ `--.  
-|  _  |/ _ \ \ /\ / /   | |/ _ \    `--. \`--. \ 
-| | | | (_) \ V  V /    | | (_) |  /\__/ /\__/ / 
-\_| |_/\___/ \_/\_/     \_/\___/   \____/\____/  
-                                                 
-                                                
 1. First of all, start by looking at the places given.  (desktop, download folder, Recycle bin)
 
 2. Make sure that the explorer has these options checked. (File name extension, Hidden items)
@@ -87,7 +79,7 @@ If you have any question please Friend Request me in discord and I'll try my bes
 This Tutorial will get updated over time after I get more intelligence because I am a dumb human being. 
 
 made with love ~James
-Discord : 𝙅𝙖𝙢𝙚𝙨#3085
+Discord : James.#3085
 Youtube: OnlyJames
 
-Have fun in the future :)
+#### Have fun in the future :)
