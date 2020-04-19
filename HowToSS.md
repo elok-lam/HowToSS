@@ -36,9 +36,6 @@
 	way 1-> Search up "System Info" and look if the pc name and the pc version are not a virtual machine.
 	way 2-> RegEdit (Wouldn't recommend it because some Players might not let you access it) If you see the "Computer" name is in another name, it is a different machine (Means a virtual machine)
 
-                                                     /\ 
-                                                    |/\|
-
 10. RegEdit Use this link -> Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
     What this does, it logs every executable program in a key.
     Search the whole thing, if you see any "Keys" of any hack client you can go ahead and deal with the User!
@@ -46,8 +43,7 @@
     DISCLAIMER -> Do not delete or modify any keys in the users pc, because it can break the pc easily!!!!!!
 
 11. Google search history -> strg+h (Works only in chrome)
-           |\/|
-            \/
+
 12. Google download history -> strg+j (Works only in chrome)
 
 13. Check if the user has a USB plugged in -> Check for an arrow bottom right and see if there is any. -> IF you see any USB, you can go ahead and ask the user -> "for what Purpose does the USB have?"
@@ -79,7 +75,9 @@ If you have any question please Friend Request me in discord and I'll try my bes
 This Tutorial will get updated over time after I get more intelligence because I am a dumb human being. 
 
 made with love ~James
+
 Discord : James.#3085
+
 Youtube: OnlyJames
 
 #### Have fun in the future :)
