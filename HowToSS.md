@@ -1,10 +1,6 @@
 
-
-
-/*
 	_Sorry for not updating it much because of school reasons and motivation but in the future (after i am done with my 		current school) I will try to update it as much as possible because the amount of experience I got from Screensharing a 	lot more players and I would love to share the ways I do it. For now enjoy this mini-update_ 
 
-*/
 
 
 
@@ -100,7 +96,6 @@ way 1-> Search up "System Info" and look if the pc name and the pc version are n
 way 2-> RegEdit (Wouldn't recommend it because some Players might not let you access it) If you see the "Computer" name         
 
 is in another name, it is a different machine (Means a virtual machine)
-
 
 
 
