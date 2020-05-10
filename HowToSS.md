@@ -1,13 +1,8 @@
- _    _                 _           _____ _____ 
- | |  | |               | |         / ____/ ____|
- | |__| | _____      __ | |_ ___   | (___| (___  
- |  __  |/ _ \ \ /\ / / | __/ _ \   \___ \\___ \ 
- | |  | | (_) \ V  V /  | |_ (_) |  ____) |___) |
- |_|  |_|\___/ \_/\_/    \__\___/  |_____/_____/ 
+
 
 
 /*
-	_Sorry for not updating it much because of school reasons and motivation but in the future (after i am done with my 		current school) I will try to update it as much as possible because the amount of experience I got from Screensharing a 	lot more players and I would love to share the ways I do it. For now enjoy this mini-update 
+	_Sorry for not updating it much because of school reasons and motivation but in the future (after i am done with my 		current school) I will try to update it as much as possible because the amount of experience I got from Screensharing a 	lot more players and I would love to share the ways I do it. For now enjoy this mini-update_ 
 
 */
 
@@ -53,7 +48,7 @@
     It might seem confusing at first sight but I will simplify it for you.
     -> Scroll down to where the user first opened Anydesk.
     -> if you see any kind of client or Autoclickers that have been used before the Anydesk activity you can go ahead and ban       the player.
-    -> **IF IT IS IN THE SAME DATE AS THE SS DAY OR THE SAME WEEK.
+    -> **IF IT IS IN THE SAME DATE AS THE SS DAY OR THE SAME WEEK.**
     Or you can use the Search feature to find any Cheat
 
 
@@ -64,7 +59,7 @@
 
 
 
-10. RegEdit Use this link -> **Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows            				     NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+10. RegEdit Use this link -> **Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows            				     NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store**
     What this does, it logs every executable program in a key.
     Search the whole thing, if you see any "Keys" of any hack client you can go ahead and deal with the User!
     you can do strg+f to search for more Keys if you would like, but it does take a lot of time.
@@ -117,7 +112,7 @@ _Please do be aware that Screensharing people has the risk of your ip being grab
 If you belive that the person you are Screensharing has Wireshark running in the background, be sure to look at this hidden icons in the bottom right of the screen, make sure there is no Wireshark running in the background_
 
 
-_There are people impersonating me and is saying that **I** will Screenshare you. That is false news. I will never ask **Anyone** to Screenshare in dms. There is a person roaming around pretending to be me but his main objective is to grab your discord Token which leads you to **lose** your account. Here is proof of a person imporsinating me.[PROOF](https://imgur.com/HKrD2As) I wish you do not trust these people._
+_There are people impersonating me and is saying that **I** will Screenshare you. That is false news. I will never ask **Anyone** to Screenshare in dms. There is a person roaming around pretending to be me but his main objective is to grab your discord Token which leads you to **lose** your account. Here is proof of a person imporsinating me. [PROOF](https://imgur.com/HKrD2As) I wish you do not trust these people._
 
 
 _This Tutorial is free of use, you can modify it or do anything with it because it is yours!
