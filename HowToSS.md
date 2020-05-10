@@ -1,5 +1,5 @@
 
-	_Sorry for not updating it much because of school reasons and motivation but in the future (after i am done with my 		current school) I will try to update it as much as possible because the amount of experience I got from Screensharing a 	lot more players and I would love to share the ways I do it. For now enjoy this mini-update_ 
+_Sorry for not updating it much because of school reasons and motivation but in the future (after i am done with my 		current school) I will try to update it as much as possible because the amount of experience I got from Screensharing a 	lot more players and I would love to share the ways I do it. For now enjoy this mini-update_ 
 
 
 
