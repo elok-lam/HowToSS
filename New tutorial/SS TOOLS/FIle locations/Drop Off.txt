@@ -1,0 +1,18 @@
+Horion's most common spots:
+
+C:\Windows\prefetch
+C:\Users\USER\AppData\Local\Temp
+C:\Users\USER\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState
+
+
+Things to look at for any cheat:
+
+
+C:\Windows\prefetch
+Their desktop and download folder (some people are really stupid)
+C:\Users\USER\AppData\Local\Temp
+C:\Windows\Temp
+C:\Users\USER\Recent
+
+
+Will be updated... (These are the ones that popped of my head because I wrote this late at night so some grammar mistakes could happen lol.)
