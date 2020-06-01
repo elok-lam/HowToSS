@@ -1,0 +1,149 @@
+Right hello hello
+
+Today I will teach you how to ss a minecraft autistic hacker that needs to be banned from your server.
++
+And there is 0 videos I've found that covers this (the other videos are about Java ect.)
+and so I thought why not show the people how to ss Minecraft-BEDROCK-Edition. (NOT JAVA)
+
+Right lets start!
+
+
+
+
+
+(I will write down my notes on what you should watch out for and some basic tips.)
+
+
+Make sure the Recycle Bin isn't empty + check if there are hidden folders
+
+Now because the most common hack there is, its called Horion and I will demonstrate.
+
+Because we use horion there will always be left over files that horion leaves when it is done with it's task.
+The locations are in the following--
+
+Make sure the date matches, That is very important!
+
+JNativeHook is a left over Java written Autoclicker type of file so if you find these in there, then you know he is def cheating.
+
+The most common place for horion to be is in that directory. it is called "default.h"
+
+what that does, it searches ALL of the .exe files that is in this USER folder. Now we can use that to our advantage.
+Gives you the exact date and the file name.
+
+You can do this too (I wouldnt recommend if you don't know any java side autoclickers etc.)
+
+Lets start with our first custom Program. (You have to download it on the user's pc first)
+
+The program "Search everything" basically does what the names says BUT
+there is a trick.
+Open it as an Administrator. (This gives the advantage to see the WHOLE pc NOT the current USER folder.)
+
+Just start searching! (some reason some stuff wont show up but will when you ss others idk why this happens to me)
+BTW THIS IS CASE-SENSITIVE! means you have to type the name EXACTLY the same as the cheat you are trying to find.
+
+
+Process Hacker 2
+
+Download it on the internet.
+
+And run it as an Admin. (because are the pros here lol)
+
+Now you can use that Search button but i usually scroll because I try to find something that might be running in the background
+
+What you search for is called "Explorer.exe" right click and go to properties
+
+First before you go search for the strings that you check if it was "Restarted". go to general and look for the "Started" if it was restarted means that he already deleted a lot of good strings to find his cheat with. (if it was restarted the "Started" time will show that it was started 10min ago or depends when he started it.)
+
+Now our concerns are in the strings. Go to the Memory. Click strings, do exactly as me and wait.
+
+Now you see that there is A LOT of strings and some of them show where it is. for example like this one. (now aint this neet)
+Anyways if there are no strings you can search for something else.
+
+Now we are not done with ph 2 yet.
+Go back to the startup
+
+Now search for CSRSS (forgot the acrynom)
+Anyways click the one that is being ran
+Again do the same with Explorer.exe
+Now Filter the .EXE
+Pretty cool?
+
+One last trick for ph 2
+
+We can see what the user has opened or Executed in his time of the startup of the pc. by searching "pcaclient"
+Save the TRACE 0000
+
+Open it and check if any hack has been used.
+No hacks have been opened.
+But it will detect everything.
+
+
+
+Now LastActivityViewer
+Download it as usual
+and open it
+before you search stuff lets tweak some settings.
+go to options
+Advanced Op
+and make it 30d because we are noobs
+Now click this button or do ctrl+f
+It detected HorionInjector.
+and you can do this for every hack.
+
+
+Oh yeah forgot to show you this
+This folder sometimes shows you what the user has done to some extend but i deleted them for privacy reasons ;)
+
+
+Now lets do a command that searches for a hack while we search manually.
+
+Open CMD
+Type this command 
+dir /s "the hack/cheat"
+this will search the current USER directory for the cheat but you CAN make it more complex by making it search the whole C:Drive but that is not really necerssary.
+Now this is not the best thing to use but I use it for complexity
+
+
+JumpListView
+Download it from the internet
+And search anything u want
+(Could skip this but nah)
+
+recentFileView 
+Download it from the internet
+and search anything u want
+shows you what i've been doing on my pc  (can be skipped if you want)
+
+
+Regscanner
+download it from the internet
+and search anything u want
+Shows Every KEY that the thing u search for that is in your System (Must do)
+
+
+usbdeview
+Download it from the internet
+and check if there are any sus mouse or usbs
+(The green means it is active and the gray means it is inactive) (can be skipped)
+
+Lets search if the cheat you search for is in the Registry 
+go to Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+and find anything sus (can be skipped but recommend doing)
+
+
+Search download history
+ctrl + j
+
+My own SS tool.
+Dont worry and it is very outdated and i am very lazy to update it and it is not a virus
+
+
+Check if the user is in a virtual machine (Rarely see people do it but can be done)
+Go to system info
+and if the OS name is like "Virtual Box " or "VMWare" you know that he is in one.
+
+hm That is pretty much it... it is almost midnight the time i am making this and i probably forgot some thing that you could do but those are the ones I wrote down on my Github -  https://github.com/James-COMMANDO/
+ik shameless plug but ignore it
+
+and yeah you could dm me if you need help with anything... by dming me in Discord James.#3085 
+and yeah have a good day I guess...
